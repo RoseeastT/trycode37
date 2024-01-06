@@ -5,4 +5,4 @@ User-agent: Googlebot-mobile
 User-agent: Slurp
 User-agent: bingbot
 Allow: /
-Sitemap : http://dewi138.jmarchini.org/sitemap.xml
+Sitemap : http://dewi138.spending.jp/sitemap.xml
